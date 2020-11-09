@@ -10,3 +10,4 @@ function getTimeComponents(time) {
 
   return { days, hours, mins, secs };
 }
+export default getTimeComponents;
